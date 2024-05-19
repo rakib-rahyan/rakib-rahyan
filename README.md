@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakib Rahyan</h1>
 <h3 align="center">Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibrahyan&label=Profile%20views&color=0e75b6&style=flat" alt="rakibrahyan" /> </p>
+<p align="left"> <img src="https://thumbor.forbes.com/thumbor/fit-in/1290x/https://www.forbes.com/advisor/wp-content/uploads/2023/07/computer-coding.jpg" alt="just a laptop image" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibrahyan" alt="rakibrahyan" /></a> </p>
 
