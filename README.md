@@ -10,7 +10,7 @@
 - 💬 Ask me about **C Programmer**
 
 - 📫 How to reach me **rakibrhayn20232@gmail.com**</br>
-<a href="https://www.facebook.com/profile.php?id=61556517414774">**Faceook**</b><a>
+- Reach in <a href="https://www.facebook.com/profile.php?id=61556517414774">**Faceook**</b><a>
 <p align="left">
 </p>
 
