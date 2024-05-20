@@ -60,4 +60,3 @@
             </ul>
         </nav>
 </div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibrahyan&show_icons=true&locale=en" alt="rakibrahyan" /></p>
