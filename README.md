@@ -36,12 +36,12 @@
                 Studies B.Sc in Computer Science & Engineering at United International University </br>
                 Dhaka,Bangladesh.
                 </li>
-                <li></li>
             </ol>
         </nav>
  </div>
  <div>
- <nav>
+ <h3>Languages:</h3>
+    <nav>
             <ul>
                 <li>🇧🇩 Bangla : Native</li>
                 <li>🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Intermediate</li>
@@ -54,7 +54,7 @@
         <nav>
             <ul>
                 <li>⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball</li>
-                <li>🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking</li>
+                <li>🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking, 🎣 Fishing</li>
                 <li>✈️ Travelling
                 </li>
             </ul>
