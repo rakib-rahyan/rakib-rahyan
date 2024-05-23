@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://thumbor.forbes.com/thumbor/fit-in/1290x/https://www.forbes.com/advisor/wp-content/uploads/2023/07/computer-coding.jpg" alt="just a laptop image" /> </p>
 
 
-- 🌱 I’m currently learning **C Programming, HTML**
+- 🌱 I’m currently learning **C Program, HTML**
 
 - 💬 Ask me about **C Programmer, HTML**
 
