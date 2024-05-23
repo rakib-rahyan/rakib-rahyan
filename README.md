@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C Program, HTML**
 
-- 💬 Ask me about **C Programmer, HTML**
+- 💬 Ask me about **C Program language , HTML**
 
 - 📫 How to reach me **rakibrhayn20232@gmail.com**</br>
 - Reach in <a href="https://www.facebook.com/profile.php?id=61556517414774">**Faceook**</b><a>
