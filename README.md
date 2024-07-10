@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakib Rahyan</h1>
-<h3 align="center">Programmer</h3>
+<h3 align="center">Programmer & Beginner problem solver</h3>
 
 <p align="left"> <img src="https://thumbor.forbes.com/thumbor/fit-in/1290x/https://www.forbes.com/advisor/wp-content/uploads/2023/07/computer-coding.jpg" alt="just a laptop image" /> </p>
 
