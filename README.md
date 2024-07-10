@@ -10,6 +10,7 @@
 
 - 📫 How to reach me **rakibrhayn20232@gmail.com**</br>
 - Reach in <a href="https://www.facebook.com/profile.php?id=61556517414774">**Faceook**</b><a>
+- Reach in <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit">**LinkedIn**</b><a>
 <p align="left">
 </p>
 <h3>🙋‍♂️About me</h3>
