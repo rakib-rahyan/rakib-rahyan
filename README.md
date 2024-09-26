@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakib Rahyan</h1>
 <h2 align="center">You have to position yourself in such a way that lakhs in crores of people think endlessly, before they speak But not against injustice.</h2>
+<h4 align="center"> My difficult situation today will be erased in the flow of time tomorrow? Or will time prepare me in such a way that the preparation will no longer be necessary, but I will still learn, struggle and change my destiny to rise to the top?</h4>
 <h3 align="center">A Beginner Programmer & problem solver</h3>
 
 <p align="left"> <img src="https://thumbor.forbes.com/thumbor/fit-in/1290x/https://www.forbes.com/advisor/wp-content/uploads/2023/07/computer-coding.jpg" alt="just a laptop image" /> </p>
