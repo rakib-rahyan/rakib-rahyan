@@ -45,8 +45,9 @@
     <nav>
         <ol>
             <li>
-                Secondary School Certificate(SSC)<br>
-                Shanarpar Sheikh Mortoza Ali High School, College, Road, Narayanganj
+                Studies B.Sc in Computer Science & Engineering at United International University 
+                </br>
+                Dhaka,Bangladesh.
             </li>
             <li>
                 Higher Secondary Certificate (HSC) <br>
@@ -54,9 +55,8 @@
                 Dhaka, Bangladesh.
             </li>
             <li>
-                Studies B.Sc in Computer Science & Engineering at United International University 
-                </br>
-                Dhaka,Bangladesh.
+                Secondary School Certificate(SSC)<br>
+                Shanarpar Sheikh Mortoza Ali High School, College, Road, Narayanganj
             </li>
         </ol>
     </nav>
