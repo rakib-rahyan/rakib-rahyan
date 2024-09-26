@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakib Rahyan</h1>
-<h3 align="center">"Position yourself in such a way that millions must think carefully before they speak, but never against injustice."</h3>
-<h5 align="center">"Will my struggles today be erased by time, or will time prepare me in such a way that preparation is no longer necessary? Regardless, I will keep learning, struggling, and shaping my destiny to rise to the top."</h5>
+<h3 align="center">"Position yourself in such a way that millions of people think endlessly before they speak to you, but never against injustice."</h3>
+<h5 align="center">"Struggle my difficult situation today, tomorrow will be forgotten by the flow of time? Or will time prepare me in such a way that the preparation will no longer be necessary, but I will still learn, struggle and change my destiny to rise to the top?."</h5>
 
 <h3 align="center">Aspiring Programmer & Problem Solver</h3>
 
