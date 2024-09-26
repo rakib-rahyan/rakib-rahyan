@@ -39,6 +39,26 @@
     </a> 
 </p>
 <div>
+    <h3>📚 Current Learning Semester Courses:</h3>
+
+<ol>
+  <li>
+    <strong>Structured Programming Language</strong> <br>
+    Diving deep into the fundamentals of structured programming, focusing on algorithm development, problem-solving techniques, and code optimization.
+  </li>
+  <li>
+    <strong>Structured Programming Language Laboratory</strong> <br>
+    Hands-on practice of structured programming concepts, including debugging, testing, and implementing real-world projects using efficient coding techniques.
+  </li>
+  <li>
+    <strong>Digital Logic Design</strong> <br>
+    Exploring the principles of digital systems, focusing on Boolean algebra, combinational and sequential circuits, and hardware design methodologies.
+  </li>
+  <li>
+    <strong>Fundamental Calculus</strong> <br>
+    Understanding the core concepts of calculus, including limits, derivatives, integrals, and their applications in solving complex mathematical problems.
+  </li>
+</ol>
     <h3>
         👨🏻‍🎓   Education
     </h3>
