@@ -17,7 +17,7 @@
 
 <h3>🙋‍♂️ About Me</h3>
 <p>
-    I am a Computer Science and Engineering student with a passion for learning programming languages and web development. I also enjoy teaching background subjects to my peers. Every day, I aim to learn new skills and share knowledge with others. Programming is my passion, and I’m always eager to solve problems and improve myself.
+    I am a Computer Science and Engineering general student. I want to learn the core concepts of computer and work further and I want to reach my goal.
 </p>
 
 ---
