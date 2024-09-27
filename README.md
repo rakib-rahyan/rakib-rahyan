@@ -17,7 +17,7 @@
 
 <h3>🙋‍♂️ About Me</h3>
 <p>
-    I am a Computer Science and Engineering general student. I want to learn the core concepts of computer and work further and I want to reach my goal
+    I am a Computer Science and Engineering general student. I want to learn the core concepts of computer and work further and I want to reach my goal.
 </p>
 
 ---
