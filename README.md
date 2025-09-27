@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **C Programming, Arduino Programming**
 - 💬 Ask me about **C Programming, HTML**
 - 📫 How to reach me: **rakibrhayn20232@gmail.com**
-- Connect with me on: [**Facebook**](https://www.facebook.com/profile.php?id=61556517414774) | [**LinkedIn**](www.linkedin.com/in/rakib-rahyan)
+- Connect with me on: [**Facebook**](https://www.facebook.com/profile.php?id=61556517414774) | [**LinkedIn**](https://www.linkedin.com/in/rakib-rahyan)
 
 ---
 
